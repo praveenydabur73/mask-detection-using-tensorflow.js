@@ -1,0 +1,28 @@
+{
+  "name": "Face-Mask-Detector",
+  "short_name": "Mask Detector",
+  "icons": [
+    {
+      "src": "./src/detect1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./src/detect1.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "./src/detect1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "description": "Face Mask Detection using OpenCV and TensroflowJS on client side.",
+  "start_url": "/",
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "Hindi"
+}
